@@ -25,24 +25,6 @@ REQUISITOS ATENDIDOS
 [x] Encapsulamento           -> atributos private + getters/setters
 [x] Validacoes               -> duplicidade de codigo, aluno existente, parcela valida
 
-COMO ABRIR NO BLUEJ
--------------------
-1. Abra o BlueJ
-2. Project > Open Project...
-3. Selecione a pasta ProjetoEscolaEAD
-4. Compile (botao Compile) e execute o metodo main de SistemaEscolaEAD
-
-COMO ABRIR NO VS CODE
----------------------
-1. File > Open Folder... e selecione a pasta ProjetoEscolaEAD
-2. Abra SistemaEscolaEAD.java e clique em "Run" (requer extensao Java)
-
-COMO RODAR PELO TERMINAL
-------------------------
-cd Documents\ProjetoEscolaEAD
-javac *.java
-java SistemaEscolaEAD
-
 MENU DO SISTEMA
 ---------------
 1 - Visualizar Lista de Alunos
